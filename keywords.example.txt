@@ -1,0 +1,11 @@
+# One keyword per line, matched as a whole word (case-insensitive) against the
+# subject, sender and preview of every swept message. Lines starting with #
+# are ignored. Copy to the path in OPS_KEYWORDS_FILE and edit for your own
+# creditors, authorities, deadlines, and VIP contacts.
+overdue
+invoice
+final notice
+urgent
+past due
+statement
+renewal
